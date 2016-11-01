@@ -63,6 +63,8 @@ h1 {
 
 table.table.materials{
 	margin-top: 50px;
+	width: inherit;
+	margin-bottom: 100px;
 }
 
 table.table.materials > tbody > tr{
@@ -71,12 +73,12 @@ table.table.materials > tbody > tr{
 
 table.table.materials > tbody > tr > td{
 	padding: 0px;
-	padding-right: 2px;
+	padding-right: 1px;
 	border-top: 0px;
 }
 
 
 img.material {
-	width: 60px;
+	width: 70px;
 }
 
