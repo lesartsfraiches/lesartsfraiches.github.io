@@ -1,9 +1,24 @@
+html, body {
+	height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
+}
+
+footer, .push {
+    height: 100px; /* .push must be the same height as .footer */
+}
+
+
 body {
 	font-family:'Dosis',sans-serif;
 	font-weight:400;
 	text-transform:none
 }
-
 
 .logo {
 	height: 125px;
@@ -12,4 +27,20 @@ body {
 
 .row {
 	padding-top: 50px;
+}
+
+a {
+	color: #000;
+}
+
+a:visited {
+	color: #000;
+}
+
+a:hover {
+	color: #a00;
+}
+
+a:active {
+	color: #a00;
 }
