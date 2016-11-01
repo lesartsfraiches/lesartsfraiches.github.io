@@ -70,16 +70,16 @@ h3 {
 	padding-top: 50px;
 }
 
-col.materials > table{
+.col.materials > table{
 	width: 100%;
 	margin-bottom: 100px;
 }
 
-col.materials > table > tbody > tr{
+.col.materials > table > tbody > tr{
 	font-size: 14px;
 }
 
-col.materials > table > tbody > tr > td{
+.col.materials > table > tbody > tr > td{
 	padding: 0px;
 	padding-right: 2px;
 	padding-left: 2px;
