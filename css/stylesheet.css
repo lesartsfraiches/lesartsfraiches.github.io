@@ -61,6 +61,20 @@ h1 {
 	font-weight: 100;
 }
 
+table.table.materials{
+	margin-top: 50px;
+}
+
+table.table.materials > tbody > tr{
+	font-size: 14px;
+}
+
+table.table.materials > tbody > tr > td{
+	padding-right: 2px;
+}
+
+
 img.material {
 	width: 18%;
 }
+
