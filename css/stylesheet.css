@@ -1,0 +1,15 @@
+body {
+	font-family:'Dosis',sans-serif;
+	font-weight:400;
+	text-transform:none
+}
+
+
+.logo {
+	height: 125px;
+}
+
+
+.row {
+	padding-top: 50px;
+}
