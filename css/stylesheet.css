@@ -13,6 +13,11 @@ footer, .push {
     height: 100px; /* .push must be the same height as .footer */
 }
 
+footer .col {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
 
 body {
 	font-family: 'Dosis',sans-serif;
