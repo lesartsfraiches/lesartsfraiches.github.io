@@ -15,9 +15,9 @@ footer, .push {
 
 
 body {
-	font-family:'Dosis',sans-serif;
-	font-weight:400;
-	text-transform:none
+	font-family: 'Dosis',sans-serif;
+	font-weight: 100;
+	text-transform: none;
 }
 
 .logo {
@@ -43,4 +43,9 @@ a:hover {
 
 a:active {
 	color: #a00;
+}
+
+.watermark {
+	width: 100%;
+	padding-top: 25px;
 }
