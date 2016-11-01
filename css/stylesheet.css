@@ -61,24 +61,29 @@ h1 {
 	font-weight: 100;
 }
 
-table.table.materials{
-	margin-top: 50px;
-	width: inherit;
+h3 {
+	font-family: 'Dosis',sans-serif;
+	font-weight: 100;
+}
+
+.col.materials > h3 {
+	padding-top: 50px;
+}
+
+col.materials > table{
+	width: 100%;
 	margin-bottom: 100px;
 }
 
-table.table.materials > tbody > tr{
+col.materials > table > tbody > tr{
 	font-size: 14px;
 }
 
-table.table.materials > tbody > tr > td{
+col.materials > table > tbody > tr > td{
 	padding: 0px;
-	padding-right: 1px;
+	padding-right: 2px;
+	padding-left: 2px;
 	border-top: 0px;
 }
 
-
-img.material {
-	width: 70px;
-}
 
