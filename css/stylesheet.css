@@ -70,11 +70,13 @@ table.table.materials > tbody > tr{
 }
 
 table.table.materials > tbody > tr > td{
+	padding: 0px;
 	padding-right: 2px;
+	border-top: 0px;
 }
 
 
 img.material {
-	width: 18%;
+	width: 60px;
 }
 
